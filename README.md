@@ -1,4 +1,4 @@
-# go-interview [![Build Status](https://travis-ci.com/shomali11/go-interview.svg?branch=master)](https://travis-ci.com/shomali11/go-interview) [![Go Report Card](https://goreportcard.com/badge/github.com/shomali11/go-interview)](https://goreportcard.com/report/github.com/shomali11/go-interview) [![GoDoc](https://godoc.org/github.com/shomali11/go-interview?status.svg)](https://godoc.org/github.com/shomali11/go-interview) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# go-interview 
 
 Collection of Technical Interview Questions solved with Go
 
@@ -78,3 +78,7 @@ Collection of Technical Interview Questions solved with Go
   * [Print By Columns](https://github.com/shomali11/go-interview/tree/master/trees/printcolumns)
   * [Print By Levels](https://github.com/shomali11/go-interview/tree/master/trees/printlevels)
   * [Print Zig Zag](https://github.com/shomali11/go-interview/tree/master/trees/printzigzag)
+
+  # Tech notes
+
+  - todo
